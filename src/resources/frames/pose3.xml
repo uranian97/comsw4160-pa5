@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<root x="0.00" y="0.20">
+  <joint length="0.30" angle="-1.95">
+    <joint length="0.30" angle="-1.64">
+      <joint length="0.30" angle="0.79">
+    </joint>
+    <joint length="0.30" angle="1.84">
+      <joint length="0.30" angle="0.01">
+    </joint>
+    <joint length="0.30" angle="0.21">
+      <joint length="0.30" angle="0.52">
+        <joint length="0.30" angle="-0.00">
+      </joint>
+      <joint length="0.30" angle="-1.47">
+        <joint length="0.30" angle="-0.03">
+      </joint>
+    </joint>
+  </joint>
+</joint>

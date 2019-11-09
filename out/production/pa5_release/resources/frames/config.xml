@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<animation fps="30" interp="cubicbezier">
+  <frame time="0">
+[1.5, -0.7, -1.0, 0.4, 2.0]
+  </frame>  
+  <frame time="1">
+[1.2, -0.7, -1.0, 0.4, 2.0]
+  </frame>	
+  <frame time="2">
+[1.2, -0.5, -1.0, 0.4, 2.0]
+  </frame>	
+  <frame time="3">
+[1.2, -0.5, -0.8, 0.4, 2.0]
+  </frame>	
+  <frame time="4">
+[1.2, -0.5, -0.8, 0.2, 2.0]  	
+  </frame>	
+  <frame time="5">
+[1.2, -0.5, -0.8, 0.2, 1.6] 	  	
+  </frame>
+</animation>

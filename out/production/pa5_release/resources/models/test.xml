@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root x="-0.2" y="-0.2">
+  <!-- angles are in radians;
+       positive = counterclockwise -->
+  <joint length="0.5" angle="1.5">
+    <joint length="0.5" angle="-0.7">
+      <joint length="0.5" angle="-1.0">
+      </joint>
+    </joint>
+    <joint length="0.5" angle="0.4">
+    </joint>
+  </joint>
+  <joint length="0.5" angle="2.0">
+  </joint>
+</root>

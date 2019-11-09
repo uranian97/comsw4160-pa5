@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<root x="0.0" y="0.2">
+  <!-- angles are in radians; positive = counterclockwise -->
+  <!--head -->
+  <joint length="0.3" angle="-2.48">
+    <!-- torso -->
+      <!--arm -->
+      <joint length="0.3" angle="-0.61">
+        <joint length="0.3" angle="0.79">
+        </joint>
+      </joint>
+      <!--arm -->
+      <joint length="0.3" angle="1.47">
+        <joint length="0.3" angle="-1.29">
+        </joint>
+      </joint>
+      <!--pelvis-->
+      <joint length="0.3" angle="0.4">
+        <!--leg -->
+        <joint length="0.3" angle="1.08">
+          <joint length="0.3" angle="0.2">
+          </joint>
+        </joint>
+        <!--leg -->
+        <joint length="0.3" angle="-0.37">
+          <joint length="0.3" angle="1.05">
+          </joint>
+        </joint>
+      </joint>
+
+  </joint>
+</root>
